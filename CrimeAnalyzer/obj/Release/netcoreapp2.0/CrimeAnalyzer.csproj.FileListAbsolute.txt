@@ -1,0 +1,11 @@
+/Users/mercyhoush/Desktop/IT2001/CrimeAnalyzer/CrimeAnalyzer/bin/Release/netcoreapp2.0/CrimeAnalyzer.deps.json
+/Users/mercyhoush/Desktop/IT2001/CrimeAnalyzer/CrimeAnalyzer/bin/Release/netcoreapp2.0/CrimeAnalyzer.runtimeconfig.json
+/Users/mercyhoush/Desktop/IT2001/CrimeAnalyzer/CrimeAnalyzer/bin/Release/netcoreapp2.0/CrimeAnalyzer.runtimeconfig.dev.json
+/Users/mercyhoush/Desktop/IT2001/CrimeAnalyzer/CrimeAnalyzer/bin/Release/netcoreapp2.0/CrimeAnalyzer.dll
+/Users/mercyhoush/Desktop/IT2001/CrimeAnalyzer/CrimeAnalyzer/bin/Release/netcoreapp2.0/CrimeAnalyzer.pdb
+/Users/mercyhoush/Desktop/IT2001/CrimeAnalyzer/CrimeAnalyzer/obj/Release/netcoreapp2.0/CrimeAnalyzer.csproj.CoreCompileInputs.cache
+/Users/mercyhoush/Desktop/IT2001/CrimeAnalyzer/CrimeAnalyzer/obj/Release/netcoreapp2.0/CrimeAnalyzer.AssemblyInfoInputs.cache
+/Users/mercyhoush/Desktop/IT2001/CrimeAnalyzer/CrimeAnalyzer/obj/Release/netcoreapp2.0/CrimeAnalyzer.AssemblyInfo.cs
+/Users/mercyhoush/Desktop/IT2001/CrimeAnalyzer/CrimeAnalyzer/obj/Release/netcoreapp2.0/CrimeAnalyzer.dll
+/Users/mercyhoush/Desktop/IT2001/CrimeAnalyzer/CrimeAnalyzer/obj/Release/netcoreapp2.0/CrimeAnalyzer.pdb
+/Users/mercyhoush/Desktop/IT2001/CrimeAnalyzer/CrimeAnalyzer/obj/Release/netcoreapp2.0/CrimeAnalyzer.csprojResolveAssemblyReference.cache
